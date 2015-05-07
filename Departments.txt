@@ -1,0 +1,6 @@
+ECON|1|Austrian Economics|11
+ECON|2|Economics History|13
+PHIL|1|Natural Philosophy|15
+PHIL|2|Historical Philosophy|18
+ANIM|1|Animation Studies|7
+ANIM|2|Fine Arts|10

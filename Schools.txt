@@ -1,0 +1,3 @@
+ECON|Economics|12
+PHIL|Philosophy|18
+ANIM|Cartooning and Animation|9

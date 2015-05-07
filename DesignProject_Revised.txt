@@ -1,0 +1,39 @@
+***********************************************************************
+*                  DESIGN PROJECT  SPRING 2011              ITSE 2309
+***********************************************************************
+                   
+
+  A small college has several schools. Each school operates several
+  departments and has one professor as its dean. Each department offers
+  courses and has students in department study programs. Each course
+  generates classes which are taught by a professor and in which
+  students enroll. A professor is an employee of the college and is
+  assigned to a department. He will advise many students and may
+  chair a department.
+
+  Create Entity Relationship Diagram for a small college.
+  Create Tables with the approriate constraint relationships.
+  Populate with records to demonstrate queries specified below.
+
+  Queries to be written as Stored Procedures:
+  ------------------------------------------
+   1. One Student's schedule of courses. (Assume 5-course load)
+   2. One Professor's schedule of courses. (Assume 4-course load)
+    
+    
+
+DELIVERABLES: 1) Entity Relationship Diagram. 
+              2) CREATE TABLE statements.
+              3) Stored Procedure Definitions
+              4) Query Execution Results.
+ 
+
+DUE: Mon May 9  6 pm  -- FINAL EXAM TIME (NO EXCEPTIONS)
+
+
+
+
+
+
+
+
